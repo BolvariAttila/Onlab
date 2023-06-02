@@ -1,5 +1,6 @@
 
 function [Results] = Boost_calc(Conv_param, FET_param, Ins_param)
+
 %input Conv_param = [U_in U_out I_out freq]
 %input FET_param = [R_dson t_rise t_fall Rth_jtc U_sd I_sd]
 %input Ins_param a szigetel? lapka h?ellenállása
